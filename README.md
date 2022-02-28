@@ -1,7 +1,7 @@
 # taking_presence
 
 <h1>Simple PHP site with data base for taking student presence </h1>
-<img src="https://www.bryntum.com/wp-content/uploads/2019/09/Angular-Logo.png" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" width="100" height="100" >
+<img src="https://www.picng.com/upload/php/png_php_64959.png" data-canonical-src="https://www.picng.com/upload/php/png_php_64959.png" width="100" height="100" >
 
 
 <p> 🐱‍💻 Simple PHP Presence Taker  🐱‍💻  </p>
